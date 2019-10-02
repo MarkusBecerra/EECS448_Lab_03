@@ -1,0 +1,20 @@
+h1
+{
+  text-align: center;
+}
+
+.menu
+{
+  text-align: center;
+}
+
+body{
+background-image: url('beach.jpeg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+a
+{
+  font-size:40px;
+}
